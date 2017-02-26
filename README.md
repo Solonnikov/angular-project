@@ -1,4 +1,4 @@
-My first Angular 2 Application based on the course https://github.com/bradtraversy/meanauthapp
+Angular 2 Application based on the course https://github.com/bradtraversy/meanauthapp
 ==============
 Version 1.0
 --------------
@@ -9,6 +9,7 @@ Installation
 Install the dependencies
 
 $ npm install
-Run app
+
+<br>Run app
 
 $ npm start
